@@ -1,12 +1,12 @@
 {
-  "totalSolved": 1,
+  "totalSolved": 2,
   "difficulties": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0
   },
   "platforms": {
-    "leetcode": 1,
+    "leetcode": 2,
     "geeksforgeeks": 0,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -16,9 +16,9 @@
   "lastSyncedProblem": {
     "title": "Build Array from Permutation",
     "platform": "LeetCode",
-    "language": "cpp",
+    "language": "1c",
     "difficulty": "Easy",
-    "syncedAt": "2026-10-21T11:44:01.623Z"
+    "syncedAt": "2026-10-21T11:45:04.641Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
