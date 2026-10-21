@@ -10,11 +10,11 @@
 | :--- | :--- |
 | **Platform** | [LeetCode](https://leetcode.com/problems/build-array-from-permutation/description/) |
 | **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/build-array-from-permutation/description/) |
-| **Language** | `C++` |
-| **Estimated Time Complexity** | `O(N)` |
+| **Language** | `1c` |
+| **Estimated Time Complexity** | `O(N^2)` |
 | **Estimated Space Complexity** | `O(N)` |
 | **Topics / Tags** | `Array`, `Simulation` |
-| **Synchronized At** | `Wed, 21 Oct 2026 11:43:59 GMT` |
+| **Synchronized At** | `Wed, 21 Oct 2026 11:45:02 GMT` |
 
 ---
 
