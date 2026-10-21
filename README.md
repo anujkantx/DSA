@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Easy](https://img.shields.io/badge/Easy-3-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Easy](https://img.shields.io/badge/Easy-4-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Medium](https://img.shields.io/badge/Medium-0-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-0-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
@@ -35,7 +35,7 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `3` | `100%` | `██████████████` |
+| 🟢 **Easy** | `4` | `100%` | `██████████████` |
 | 🟡 **Medium** | `0` | `0%` | `░░░░░░░░░░░░░░` |
 | 🔴 **Hard** | `0` | `0%` | `░░░░░░░░░░░░░░` |
 
@@ -43,7 +43,7 @@
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
-| 🟡 **LeetCode** | `3` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟡 **LeetCode** | `4` | 🟢 Active | [leetcode.com](https://leetcode.com) |
 | 🟢 **GeeksforGeeks** | `0` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `0` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `0` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **First Letter to Appear Twice** |
+| **Latest Solved** | **First Unique Character in a String** |
 | **Platform** | `LeetCode` |
 | **Difficulty** | `Easy` |
 | **Language** | `cpp` |
-| **Last Synchronized** | `Wed, 21 Oct 2026 11:46:11 GMT` |
+| **Last Synchronized** | `Wed, 21 Oct 2026 11:47:16 GMT` |
 
 ---
 
