@@ -1,12 +1,12 @@
 {
   "totalSolved": 3,
   "difficulties": {
-    "easy": 3,
+    "easy": 4,
     "medium": 0,
     "hard": 0
   },
   "platforms": {
-    "leetcode": 3,
+    "leetcode": 4,
     "geeksforgeeks": 0,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "First Letter to Appear Twice",
+    "title": "First Unique Character in a String",
     "platform": "LeetCode",
     "language": "cpp",
     "difficulty": "Easy",
-    "syncedAt": "2026-10-21T11:46:11.092Z"
+    "syncedAt": "2026-10-21T11:47:16.458Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
