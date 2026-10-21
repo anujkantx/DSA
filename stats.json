@@ -1,12 +1,12 @@
 {
-  "totalSolved": 2,
+  "totalSolved": 3,
   "difficulties": {
-    "easy": 2,
+    "easy": 3,
     "medium": 0,
     "hard": 0
   },
   "platforms": {
-    "leetcode": 2,
+    "leetcode": 3,
     "geeksforgeeks": 0,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Build Array from Permutation",
+    "title": "First Letter to Appear Twice",
     "platform": "LeetCode",
-    "language": "1c",
+    "language": "cpp",
     "difficulty": "Easy",
-    "syncedAt": "2026-10-21T11:45:04.641Z"
+    "syncedAt": "2026-10-21T11:46:11.092Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
