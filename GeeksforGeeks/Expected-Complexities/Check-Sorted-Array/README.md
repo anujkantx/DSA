@@ -1,0 +1,22 @@
+# Check Sorted Array
+
+![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen?style=for-the-badge)
+![Platform: GeeksforGeeks](https://img.shields.io/badge/Platform-GeeksforGeeks-blue?style=for-the-badge)
+![Status: ACCEPTED](https://img.shields.io/badge/Status-ACCEPTED-success?style=for-the-badge)
+
+## 📋 Problem Details
+
+| Metric | Detail |
+| :--- | :--- |
+| **Platform** | [GeeksforGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) |
+| **Problem Link** | [View Problem on GeeksforGeeks](https://www.geeksforgeeks.org/problems/check-if-an-array-is-sorted0701/1) |
+| **Language** | `C++` |
+| **Estimated Time Complexity** | `O(N log N)` |
+| **Estimated Space Complexity** | `O(N)` |
+| **Topics / Tags** | `Expected Complexities`, `Topic TagsArraysSorting`, `Topic Tags`, `Arrays`, `Sorting`, `Related Articles`, `CodeSync` |
+| **Synchronized At** | `Sat, 24 Oct 2026 19:36:51 GMT` |
+
+---
+
+### 💡 Solution Note
+Automatically synchronized by **[CodeSync v3.1.0](https://studyit.in)** — Universal Multi-Platform Solution Sync Engine powered by [Studyit.in](https://studyit.in).
