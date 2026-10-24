@@ -1,12 +1,12 @@
 {
-  "totalSolved": 4,
+  "totalSolved": 5,
   "difficulties": {
     "easy": 4,
     "medium": 0,
-    "hard": 0
+    "hard": 1
   },
   "platforms": {
-    "leetcode": 4,
+    "leetcode": 5,
     "geeksforgeeks": 0,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "First Unique Character in a String",
+    "title": "Sudoku Solver",
     "platform": "LeetCode",
     "language": "cpp",
-    "difficulty": "Easy",
-    "syncedAt": "2026-10-21T11:47:16.458Z"
+    "difficulty": "Hard",
+    "syncedAt": "2026-10-24T19:04:50.654Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
