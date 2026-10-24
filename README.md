@@ -4,7 +4,7 @@
 
 [![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
 [![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-7-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-8-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
 <p align="center">
   <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
@@ -26,7 +26,7 @@
 <div align="center">
 
 [![Easy](https://img.shields.io/badge/Easy-5-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
-[![Medium](https://img.shields.io/badge/Medium-0-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Medium](https://img.shields.io/badge/Medium-1-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-2-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
 </div>
@@ -35,16 +35,16 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `5` | `71%` | `██████████░░░░` |
-| 🟡 **Medium** | `0` | `0%` | `░░░░░░░░░░░░░░` |
-| 🔴 **Hard** | `2` | `29%` | `████░░░░░░░░░░` |
+| 🟢 **Easy** | `5` | `63%` | `█████████░░░░░` |
+| 🟡 **Medium** | `1` | `13%` | `██░░░░░░░░░░░░` |
+| 🔴 **Hard** | `2` | `25%` | `████░░░░░░░░░░` |
 
 ### 🌐 Platform Breakdown
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
 | 🟡 **LeetCode** | `5` | 🟢 Active | [leetcode.com](https://leetcode.com) |
-| 🟢 **GeeksforGeeks** | `2` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
+| 🟢 **GeeksforGeeks** | `3` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `0` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `0` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
 | 🟤 **CodeChef** | `0` | 🟢 Active | [codechef.com](https://codechef.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **Check Sorted Array** |
+| **Latest Solved** | **Friends Pairing Problem** |
 | **Platform** | `GeeksforGeeks` |
-| **Difficulty** | `Easy` |
+| **Difficulty** | `Medium` |
 | **Language** | `cpp` |
-| **Last Synchronized** | `Sat, 24 Oct 2026 19:36:52 GMT` |
+| **Last Synchronized** | `Sat, 24 Oct 2026 19:38:32 GMT` |
 
 ---
 
