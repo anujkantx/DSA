@@ -1,24 +1,24 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "difficulties": {
     "easy": 5,
-    "medium": 0,
+    "medium": 1,
     "hard": 2
   },
   "platforms": {
     "leetcode": 5,
-    "geeksforgeeks": 2,
+    "geeksforgeeks": 3,
     "takeuforward": 0,
     "hackerrank": 0,
     "codechef": 0,
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Check Sorted Array",
+    "title": "Friends Pairing Problem",
     "platform": "GeeksforGeeks",
     "language": "cpp",
-    "difficulty": "Easy",
-    "syncedAt": "2026-10-24T19:36:52.783Z"
+    "difficulty": "Medium",
+    "syncedAt": "2026-10-24T19:38:32.051Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
