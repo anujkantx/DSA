@@ -1,24 +1,24 @@
 {
-  "totalSolved": 6,
+  "totalSolved": 7,
   "difficulties": {
-    "easy": 4,
+    "easy": 5,
     "medium": 0,
     "hard": 2
   },
   "platforms": {
     "leetcode": 5,
-    "geeksforgeeks": 1,
+    "geeksforgeeks": 2,
     "takeuforward": 0,
     "hackerrank": 0,
     "codechef": 0,
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Solve the Sudoku",
+    "title": "Check Sorted Array",
     "platform": "GeeksforGeeks",
     "language": "cpp",
-    "difficulty": "Hard",
-    "syncedAt": "2026-10-24T19:35:31.827Z"
+    "difficulty": "Easy",
+    "syncedAt": "2026-10-24T19:36:52.783Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
