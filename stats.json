@@ -1,24 +1,24 @@
 {
-  "totalSolved": 8,
+  "totalSolved": 11,
   "difficulties": {
-    "easy": 5,
+    "easy": 6,
     "medium": 1,
     "hard": 2
   },
   "platforms": {
     "leetcode": 5,
-    "geeksforgeeks": 3,
+    "geeksforgeeks": 4,
     "takeuforward": 0,
     "hackerrank": 0,
     "codechef": 0,
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Friends Pairing Problem",
+    "title": "Rotate Array by One",
     "platform": "GeeksforGeeks",
     "language": "cpp",
-    "difficulty": "Medium",
-    "syncedAt": "2026-10-24T19:38:32.051Z"
+    "difficulty": "Easy",
+    "syncedAt": "2026-10-24T19:39:49.812Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
