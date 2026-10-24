@@ -1,24 +1,24 @@
 {
-  "totalSolved": 5,
+  "totalSolved": 6,
   "difficulties": {
     "easy": 4,
     "medium": 0,
-    "hard": 1
+    "hard": 2
   },
   "platforms": {
     "leetcode": 5,
-    "geeksforgeeks": 0,
+    "geeksforgeeks": 1,
     "takeuforward": 0,
     "hackerrank": 0,
     "codechef": 0,
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Sudoku Solver",
-    "platform": "LeetCode",
+    "title": "Solve the Sudoku",
+    "platform": "GeeksforGeeks",
     "language": "cpp",
     "difficulty": "Hard",
-    "syncedAt": "2026-10-24T19:04:50.654Z"
+    "syncedAt": "2026-10-24T19:35:31.827Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
