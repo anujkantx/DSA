@@ -16,7 +16,6 @@ public:
 
         return day;
     }
-
     int countDaysTogether(string arriveAlice, string leaveAlice,
                           string arriveBob, string leaveBob) {
         int a1 = dayOfYear(arriveAlice);
