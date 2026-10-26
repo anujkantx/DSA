@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "difficulties": {
     "easy": 7,
     "medium": 1,
-    "hard": 2
+    "hard": 3
   },
   "platforms": {
-    "leetcode": 6,
+    "leetcode": 7,
     "geeksforgeeks": 4,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Count Days Spent Together",
+    "title": "Dungeon Game",
     "platform": "LeetCode",
     "language": "cpp",
-    "difficulty": "Easy",
-    "syncedAt": "2026-10-24T20:02:05.718Z"
+    "difficulty": "Hard",
+    "syncedAt": "2026-10-26T09:03:41.805Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
