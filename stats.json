@@ -1,12 +1,12 @@
 {
-  "totalSolved": 20,
+  "totalSolved": 21,
   "difficulties": {
-    "easy": 9,
+    "easy": 10,
     "medium": 2,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 10,
+    "leetcode": 11,
     "geeksforgeeks": 4,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Smallest Palindromic Rearrangement I",
+    "title": "Find Missing Elements",
     "platform": "LeetCode",
     "language": "cpp",
-    "difficulty": "Medium",
-    "syncedAt": "2026-10-28T04:26:24.941Z"
+    "difficulty": "Easy",
+    "syncedAt": "2026-10-28T04:29:00.742Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
