@@ -1,12 +1,12 @@
 {
-  "totalSolved": 16,
+  "totalSolved": 18,
   "difficulties": {
-    "easy": 8,
+    "easy": 9,
     "medium": 1,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 8,
+    "leetcode": 9,
     "geeksforgeeks": 4,
     "takeuforward": 0,
     "hackerrank": 0,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Binary Search",
+    "title": "Maximum Product of Three Numbers",
     "platform": "LeetCode",
     "language": "cpp",
     "difficulty": "Easy",
-    "syncedAt": "2026-10-28T04:23:47.420Z"
+    "syncedAt": "2026-10-28T04:25:19.032Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
