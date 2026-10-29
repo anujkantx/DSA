@@ -4,7 +4,7 @@
 
 [![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
 [![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-24-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-25-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
 <p align="center">
   <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
@@ -26,7 +26,7 @@
 <div align="center">
 
 [![Easy](https://img.shields.io/badge/Easy-11-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
-[![Medium](https://img.shields.io/badge/Medium-4-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Medium](https://img.shields.io/badge/Medium-5-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
 </div>
@@ -35,15 +35,15 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `11` | `61%` | `█████████░░░░░` |
-| 🟡 **Medium** | `4` | `22%` | `███░░░░░░░░░░░` |
-| 🔴 **Hard** | `3` | `17%` | `██░░░░░░░░░░░░` |
+| 🟢 **Easy** | `11` | `58%` | `████████░░░░░░` |
+| 🟡 **Medium** | `5` | `26%` | `████░░░░░░░░░░` |
+| 🔴 **Hard** | `3` | `16%` | `██░░░░░░░░░░░░` |
 
 ### 🌐 Platform Breakdown
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
-| 🟡 **LeetCode** | `12` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟡 **LeetCode** | `13` | 🟢 Active | [leetcode.com](https://leetcode.com) |
 | 🟢 **GeeksforGeeks** | `5` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `0` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `1` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **Ways to Reach the n'th Stair** |
-| **Platform** | `GeeksforGeeks` |
+| **Latest Solved** | **Longest Common Subsequence** |
+| **Platform** | `LeetCode` |
 | **Difficulty** | `Medium` |
 | **Language** | `cpp` |
-| **Last Synchronized** | `Thu, 29 Oct 2026 12:29:29 GMT` |
+| **Last Synchronized** | `Thu, 29 Oct 2026 13:08:26 GMT` |
 
 ---
 
