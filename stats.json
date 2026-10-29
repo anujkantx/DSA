@@ -1,12 +1,12 @@
 {
-  "totalSolved": 24,
+  "totalSolved": 25,
   "difficulties": {
     "easy": 11,
-    "medium": 4,
+    "medium": 5,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 12,
+    "leetcode": 13,
     "geeksforgeeks": 5,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Ways to Reach the n'th Stair",
-    "platform": "GeeksforGeeks",
+    "title": "Longest Common Subsequence",
+    "platform": "LeetCode",
     "language": "cpp",
     "difficulty": "Medium",
-    "syncedAt": "2026-10-29T12:29:29.576Z"
+    "syncedAt": "2026-10-29T13:08:26.533Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
