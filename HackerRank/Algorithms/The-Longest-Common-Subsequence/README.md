@@ -8,13 +8,13 @@
 
 | Metric | Detail |
 | :--- | :--- |
-| **Platform** | [HackerRank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence) |
-| **Problem Link** | [View Problem on HackerRank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence) |
+| **Platform** | [HackerRank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/copy-from/486252125) |
+| **Problem Link** | [View Problem on HackerRank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence/copy-from/486252125) |
 | **Language** | `C++` |
-| **Estimated Time Complexity** | `O(N)` |
-| **Estimated Space Complexity** | `O(N)` |
+| **Estimated Time Complexity** | `O(N^2)` |
+| **Estimated Space Complexity** | `O(N^2)` |
 | **Topics / Tags** | `Algorithms`, `Dynamic Programming`, `Prepare`, `The Longest Common Subsequence` |
-| **Synchronized At** | `Thu, 29 Oct 2026 07:16:28 GMT` |
+| **Synchronized At** | `Thu, 29 Oct 2026 07:17:56 GMT` |
 
 ---
 
