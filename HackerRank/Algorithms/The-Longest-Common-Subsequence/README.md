@@ -12,9 +12,9 @@
 | **Problem Link** | [View Problem on HackerRank](https://www.hackerrank.com/challenges/dynamic-programming-classics-the-longest-common-subsequence) |
 | **Language** | `C++` |
 | **Estimated Time Complexity** | `O(N)` |
-| **Estimated Space Complexity** | `O(1)` |
+| **Estimated Space Complexity** | `O(N)` |
 | **Topics / Tags** | `Algorithms`, `Dynamic Programming`, `Prepare`, `The Longest Common Subsequence` |
-| **Synchronized At** | `Thu, 29 Oct 2026 06:25:59 GMT` |
+| **Synchronized At** | `Thu, 29 Oct 2026 07:16:28 GMT` |
 
 ---
 
