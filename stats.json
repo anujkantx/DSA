@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "difficulties": {
-    "easy": 10,
+    "easy": 11,
     "medium": 3,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 11,
+    "leetcode": 12,
     "geeksforgeeks": 4,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "The Longest Common Subsequence",
-    "platform": "HackerRank",
-    "language": "C++14",
-    "difficulty": "Medium",
-    "syncedAt": "2026-10-29T07:17:58.514Z"
+    "title": "Climbing Stairs",
+    "platform": "LeetCode",
+    "language": "cpp",
+    "difficulty": "Easy",
+    "syncedAt": "2026-10-29T12:09:49.727Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
