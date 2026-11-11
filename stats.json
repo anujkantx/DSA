@@ -1,12 +1,12 @@
 {
-  "totalSolved": 29,
+  "totalSolved": 30,
   "difficulties": {
-    "easy": 14,
+    "easy": 15,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 16,
+    "leetcode": 17,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "title": "1365. How Many Numbers Are Smaller Than the Current Number",
     "platform": "LeetCode",
-    "language": "cpp",
+    "language": "Python3",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-11T10:11:50.243Z"
+    "syncedAt": "2026-11-11T10:24:17.943Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
