@@ -1,12 +1,12 @@
 {
-  "totalSolved": 30,
+  "totalSolved": 31,
   "difficulties": {
-    "easy": 15,
+    "easy": 16,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 17,
+    "leetcode": 18,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "1365. How Many Numbers Are Smaller Than the Current Number",
+    "title": "2520. Count the Digits That Divide a Number",
     "platform": "LeetCode",
     "language": "Python3",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-11T10:24:17.943Z"
+    "syncedAt": "2026-11-11T10:30:36.179Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
