@@ -1,12 +1,12 @@
 {
-  "totalSolved": 26,
+  "totalSolved": 27,
   "difficulties": {
-    "easy": 11,
+    "easy": 12,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 13,
+    "leetcode": 14,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Longest Common Subsequence",
-    "platform": "GeeksforGeeks",
+    "title": "Fizz Buzz",
+    "platform": "LeetCode",
     "language": "cpp",
-    "difficulty": "Medium",
-    "syncedAt": "2026-10-29T14:10:40.034Z"
+    "difficulty": "Easy",
+    "syncedAt": "2026-11-11T09:06:00.194Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
