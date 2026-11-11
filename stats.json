@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "difficulties": {
-    "easy": 17,
+    "easy": 18,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 19,
+    "leetcode": 20,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "9. Palindrome Number",
+    "title": "1281. Subtract the Product and Sum of Digits of an Integer",
     "platform": "LeetCode",
     "language": "Python3",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-11T10:42:25.814Z"
+    "syncedAt": "2026-11-11T10:51:21.549Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
