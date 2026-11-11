@@ -1,12 +1,12 @@
 {
-  "totalSolved": 28,
+  "totalSolved": 29,
   "difficulties": {
-    "easy": 13,
+    "easy": 14,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 15,
+    "leetcode": 16,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "Count Odd Numbers in an Interval Range",
+    "title": "How Many Numbers Are Smaller Than the Current Number",
     "platform": "LeetCode",
-    "language": "1c",
+    "language": "cpp",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-11T09:22:54.483Z"
+    "syncedAt": "2026-11-11T10:11:50.243Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
