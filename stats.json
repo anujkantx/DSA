@@ -1,12 +1,12 @@
 {
-  "totalSolved": 33,
+  "totalSolved": 34,
   "difficulties": {
-    "easy": 18,
+    "easy": 19,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 20,
+    "leetcode": 21,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "1281. Subtract the Product and Sum of Digits of an Integer",
+    "title": "1431. Kids With the Greatest Number of Candies",
     "platform": "LeetCode",
     "language": "Python3",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-11T10:51:21.549Z"
+    "syncedAt": "2026-11-11T10:57:33.228Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
