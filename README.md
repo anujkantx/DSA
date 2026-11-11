@@ -4,7 +4,7 @@
 
 [![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
 [![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-28-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-29-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
 <p align="center">
   <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Easy](https://img.shields.io/badge/Easy-13-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Easy](https://img.shields.io/badge/Easy-14-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Medium](https://img.shields.io/badge/Medium-6-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
@@ -35,15 +35,15 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `13` | `59%` | `████████░░░░░░` |
-| 🟡 **Medium** | `6` | `27%` | `████░░░░░░░░░░` |
-| 🔴 **Hard** | `3` | `14%` | `██░░░░░░░░░░░░` |
+| 🟢 **Easy** | `14` | `61%` | `█████████░░░░░` |
+| 🟡 **Medium** | `6` | `26%` | `████░░░░░░░░░░` |
+| 🔴 **Hard** | `3` | `13%` | `██░░░░░░░░░░░░` |
 
 ### 🌐 Platform Breakdown
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
-| 🟡 **LeetCode** | `15` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟡 **LeetCode** | `16` | 🟢 Active | [leetcode.com](https://leetcode.com) |
 | 🟢 **GeeksforGeeks** | `6` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `0` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `1` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **Count Odd Numbers in an Interval Range** |
+| **Latest Solved** | **How Many Numbers Are Smaller Than the Current Number** |
 | **Platform** | `LeetCode` |
 | **Difficulty** | `Easy` |
-| **Language** | `1c` |
-| **Last Synchronized** | `Wed, 11 Nov 2026 09:22:54 GMT` |
+| **Language** | `cpp` |
+| **Last Synchronized** | `Wed, 11 Nov 2026 10:11:50 GMT` |
 
 ---
 
