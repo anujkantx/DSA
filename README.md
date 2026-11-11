@@ -4,7 +4,7 @@
 
 [![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
 [![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-32-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-33-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
 <p align="center">
   <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Easy](https://img.shields.io/badge/Easy-17-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Easy](https://img.shields.io/badge/Easy-18-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Medium](https://img.shields.io/badge/Medium-6-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
@@ -35,15 +35,15 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `17` | `65%` | `█████████░░░░░` |
-| 🟡 **Medium** | `6` | `23%` | `███░░░░░░░░░░░` |
-| 🔴 **Hard** | `3` | `12%` | `██░░░░░░░░░░░░` |
+| 🟢 **Easy** | `18` | `67%` | `█████████░░░░░` |
+| 🟡 **Medium** | `6` | `22%` | `███░░░░░░░░░░░` |
+| 🔴 **Hard** | `3` | `11%` | `██░░░░░░░░░░░░` |
 
 ### 🌐 Platform Breakdown
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
-| 🟡 **LeetCode** | `19` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟡 **LeetCode** | `20` | 🟢 Active | [leetcode.com](https://leetcode.com) |
 | 🟢 **GeeksforGeeks** | `6` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `0` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `1` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **9. Palindrome Number** |
+| **Latest Solved** | **1281. Subtract the Product and Sum of Digits of an Integer** |
 | **Platform** | `LeetCode` |
 | **Difficulty** | `Easy` |
 | **Language** | `Python3` |
-| **Last Synchronized** | `Wed, 11 Nov 2026 10:42:25 GMT` |
+| **Last Synchronized** | `Wed, 11 Nov 2026 10:51:21 GMT` |
 
 ---
 
