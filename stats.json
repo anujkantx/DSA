@@ -1,12 +1,12 @@
 {
-  "totalSolved": 34,
+  "totalSolved": 35,
   "difficulties": {
-    "easy": 19,
+    "easy": 20,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 21,
+    "leetcode": 22,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "1431. Kids With the Greatest Number of Candies",
+    "title": "1137. N-th Tribonacci Number",
     "platform": "LeetCode",
-    "language": "Python3",
+    "language": "C++",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-11T10:57:33.228Z"
+    "syncedAt": "2026-11-12T05:40:18.679Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
