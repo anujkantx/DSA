@@ -10,11 +10,11 @@
 | :--- | :--- |
 | **Platform** | [LeetCode](https://leetcode.com/problems/power-of-three) |
 | **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/power-of-three) |
-| **Language** | `C++` |
+| **Language** | `Python3` |
 | **Estimated Time Complexity** | `O(N)` |
 | **Estimated Space Complexity** | `O(1)` |
 | **Topics / Tags** | `Math`, `Recursion` |
-| **Synchronized At** | `Thu, 12 Nov 2026 06:22:04 GMT` |
+| **Synchronized At** | `Thu, 12 Nov 2026 06:22:25 GMT` |
 
 ---
 
