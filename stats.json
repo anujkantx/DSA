@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "difficulties": {
-    "easy": 21,
+    "easy": 22,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 23,
+    "leetcode": 24,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -16,9 +16,9 @@
   "lastSyncedProblem": {
     "title": "231. Power of Two",
     "platform": "LeetCode",
-    "language": "Python3",
+    "language": "C++",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-12T06:15:33.747Z"
+    "syncedAt": "2026-11-12T06:16:55.245Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
