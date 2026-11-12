@@ -4,7 +4,7 @@
 
 [![Download CodeSync](https://img.shields.io/badge/Download%20Extension-CodeSync-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white)](https://studyit.in/codesync)
 [![Visit Studyit](https://img.shields.io/badge/University%20Notes%20%26%20PYQs-Studyit.in-10B981?style=for-the-badge&logo=book&logoColor=white)](https://studyit.in)
-[![Total Solved](https://img.shields.io/badge/Total%20Solved-37-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
+[![Total Solved](https://img.shields.io/badge/Total%20Solved-38-F59E0B?style=for-the-badge&logo=codeforces&logoColor=white)](#-problem-solving-statistics)
 
 <p align="center">
   <a href="https://studyit.in/codesync"><b>📥 Download CodeSync Extension</b></a> •
@@ -25,7 +25,7 @@
 
 <div align="center">
 
-[![Easy](https://img.shields.io/badge/Easy-22-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
+[![Easy](https://img.shields.io/badge/Easy-23-00B8A3?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Medium](https://img.shields.io/badge/Medium-6-FFC01E?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 [![Hard](https://img.shields.io/badge/Hard-3-FF375F?style=flat-square&logo=leetcode&logoColor=white)](#-difficulty-breakdown)
 
@@ -35,15 +35,15 @@
 
 | Difficulty | Solved | Percentage | Progress Bar |
 | :--- | :---: | :---: | :--- |
-| 🟢 **Easy** | `22` | `71%` | `██████████░░░░` |
+| 🟢 **Easy** | `23` | `72%` | `██████████░░░░` |
 | 🟡 **Medium** | `6` | `19%` | `███░░░░░░░░░░░` |
-| 🔴 **Hard** | `3` | `10%` | `█░░░░░░░░░░░░░` |
+| 🔴 **Hard** | `3` | `9%` | `█░░░░░░░░░░░░░` |
 
 ### 🌐 Platform Breakdown
 
 | Platform | Solved | Status | Link |
 | :--- | :---: | :---: | :---: |
-| 🟡 **LeetCode** | `24` | 🟢 Active | [leetcode.com](https://leetcode.com) |
+| 🟡 **LeetCode** | `25` | 🟢 Active | [leetcode.com](https://leetcode.com) |
 | 🟢 **GeeksforGeeks** | `6` | 🟢 Active | [geeksforgeeks.org](https://practice.geeksforgeeks.org) |
 | 🔴 **TakeUForward** | `0` | 🟢 Active | [takeuforward.org](https://takeuforward.org) |
 | 🔵 **HackerRank** | `1` | 🟢 Active | [hackerrank.com](https://hackerrank.com) |
@@ -54,11 +54,11 @@
 
 | Metric | Details |
 | :--- | :--- |
-| **Latest Solved** | **231. Power of Two** |
+| **Latest Solved** | **326. Power of Three** |
 | **Platform** | `LeetCode` |
 | **Difficulty** | `Easy` |
 | **Language** | `C++` |
-| **Last Synchronized** | `Thu, 12 Nov 2026 06:16:55 GMT` |
+| **Last Synchronized** | `Thu, 12 Nov 2026 06:22:06 GMT` |
 
 ---
 
