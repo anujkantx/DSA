@@ -10,11 +10,11 @@
 | :--- | :--- |
 | **Platform** | [LeetCode](https://leetcode.com/problems/power-of-two) |
 | **Problem Link** | [View Problem on LeetCode](https://leetcode.com/problems/power-of-two) |
-| **Language** | `Python3` |
+| **Language** | `C++` |
 | **Estimated Time Complexity** | `O(N)` |
 | **Estimated Space Complexity** | `O(1)` |
 | **Topics / Tags** | `Math`, `Bit Manipulation`, `Recursion` |
-| **Synchronized At** | `Thu, 12 Nov 2026 06:15:31 GMT` |
+| **Synchronized At** | `Thu, 12 Nov 2026 06:16:52 GMT` |
 
 ---
 
