@@ -1,12 +1,12 @@
 {
-  "totalSolved": 35,
+  "totalSolved": 36,
   "difficulties": {
-    "easy": 20,
+    "easy": 21,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 22,
+    "leetcode": 23,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "1137. N-th Tribonacci Number",
+    "title": "231. Power of Two",
     "platform": "LeetCode",
-    "language": "C++",
+    "language": "Python3",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-12T05:43:17.886Z"
+    "syncedAt": "2026-11-12T06:15:33.747Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
