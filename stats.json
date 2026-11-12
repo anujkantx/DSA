@@ -1,12 +1,12 @@
 {
-  "totalSolved": 37,
+  "totalSolved": 38,
   "difficulties": {
-    "easy": 22,
+    "easy": 23,
     "medium": 6,
     "hard": 3
   },
   "platforms": {
-    "leetcode": 24,
+    "leetcode": 25,
     "geeksforgeeks": 6,
     "takeuforward": 0,
     "hackerrank": 1,
@@ -14,11 +14,11 @@
     "codeforces": 0
   },
   "lastSyncedProblem": {
-    "title": "231. Power of Two",
+    "title": "326. Power of Three",
     "platform": "LeetCode",
     "language": "C++",
     "difficulty": "Easy",
-    "syncedAt": "2026-11-12T06:16:55.245Z"
+    "syncedAt": "2026-11-12T06:22:06.068Z"
   },
   "syncedBy": "CodeSync by Studyit.in (https://studyit.in)"
 }
